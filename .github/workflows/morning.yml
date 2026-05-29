@@ -1,21 +1,12 @@
-name: 🎯 Test Tygodniowy
+name: 🌅 Zdanie Dnia (Rano)
 
 on:
   schedule:
-    - cron: "0 18 * * 5"   # Piątek 20:00 CEST
+    - cron: "0 6 * * *"   # 8:00 CEST — generuje zdanie dnia
   workflow_dispatch:
-    inputs:
-      test_mode:
-        description: 'start = nowy test, answer = sprawdź odpowiedź'
-        required: false
-        default: 'start'
-      user_answer:
-        description: 'Odpowiedź użytkownika (A/B/C/D)'
-        required: false
-        default: ''
 
 jobs:
-  weekly-test:
+  morning:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -31,6 +22,5 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-          TEST_MODE: ${{ github.event.inputs.test_mode || 'start' }}
-          USER_ANSWER: ${{ github.event.inputs.user_answer || '' }}
-        run: python scripts/weekly_test.py
+          MODE: morning
+        run: python scripts/bot.py
