@@ -1,1 +1,91 @@
-{}
+{
+  "questions": [
+    {
+      "lang": "EN",
+      "question": "What does the 2nd conditional describe?",
+      "options": {
+        "A": "sytuacje prawdopodobne",
+        "B": "sytuacje mało prawdopodobne",
+        "C": "sytuacje możliwe",
+        "D": "sytuacje niezrealizowane"
+      },
+      "answer": "B",
+      "explanation": "2. warunek opisuje sytuacje, które są mało prawdopodobne."
+    },
+    {
+      "lang": "EN",
+      "question": "What is the purpose of learning business vocabulary?",
+      "options": {
+        "A": "podróże",
+        "B": "rozrywka",
+        "C": "komunikacja w środowisku biznesowym",
+        "D": "nauka języka"
+      },
+      "answer": "C",
+      "explanation": "Poznanie słownictwa biznesowego pomoże w komunikacji w środowisku biznesowym."
+    },
+    {
+      "lang": "EN",
+      "question": "What does the idiom 'burn out' mean?",
+      "options": {
+        "A": "wypalenie się",
+        "B": "znużenie",
+        "C": "zmęczenie",
+        "D": "stres"
+      },
+      "answer": "A",
+      "explanation": "Idiom 'burn out' odnosi się do stanu wypalenia się."
+    },
+    {
+      "lang": "EN",
+      "question": "What is the difference between Present Perfect and Past Simple?",
+      "options": {
+        "A": "Present Perfect opisuje sytuacje z przeszłości, a Past Simple z teraźniejszości",
+        "B": "Present Perfect opisuje sytuacje z teraźniejszości, a Past Simple z przeszłości",
+        "C": "Present Perfect opisuje sytuacje z przyszłości, a Past Simple z teraźniejszości",
+        "D": "Present Perfect opisuje sytuacje z teraźniejszości, a Past Simple z przyszłości"
+      },
+      "answer": "B",
+      "explanation": "Używamy Present Perfect, gdy mówimy o czymś, co się wydarzyło w przeszłości, ale ma jakiś związek z teraźniejszością, natomiast Past Simple używamy, gdy opisujemy zdarzenie, które się wydarzyło w przeszłości i nie ma związku z teraźniejszością."
+    },
+    {
+      "lang": "DE",
+      "question": "What is the difference between 'nicht' and 'kein'?",
+      "options": {
+        "A": "'nicht' i 'kein' mają takie same znaczenie",
+        "B": "'nicht' jest używane do negacji zdania, a 'kein' do negacji rzeczownika",
+        "C": "'nicht' jest używane do negacji rzeczownika, a 'kein' do negacji zdania",
+        "D": "'nicht' i 'kein' są używane tylko w przypadku Nominativu"
+      },
+      "answer": "B",
+      "explanation": "Słowo 'nicht' jest używane do negacji zdania, a 'kein' do negacji rzeczownika."
+    },
+    {
+      "lang": "DE",
+      "question": "How are nouns formed in the plural in German?",
+      "options": {
+        "A": "wszystkie rzeczowniki dodają '-e' na końcu",
+        "B": "wszystkie rzeczowniki dodają '-en' na końcu",
+        "C": "rzeczowniki mają różne końcówki w liczbie mnogiej, takie jak '-e', '-en' lub '-er'",
+        "D": "rzeczowniki nie zmieniają formy w liczbie mnogiej"
+      },
+      "answer": "C",
+      "explanation": "Rzeczowniki w języku niemieckim mają różne formy liczby mnogiej, takie jak '-e', '-en' lub '-er'."
+    },
+    {
+      "lang": "DE",
+      "question": "What is the function of the articles 'der', 'die' and 'das'?",
+      "options": {
+        "A": "określenie liczby mnogiej",
+        "B": "określenie przypadku",
+        "C": "określenie rodzaju rzeczy lub osoby",
+        "D": "określenie czasu"
+      },
+      "answer": "C",
+      "explanation": "Rodzajniki 'der', 'die' i 'das' określają rodzaj rzeczy lub osoby."
+    }
+  ],
+  "current": 0,
+  "score": 0,
+  "date": "2026-06-05"
+}
