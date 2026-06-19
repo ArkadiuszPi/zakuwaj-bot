@@ -2,90 +2,90 @@
   "questions": [
     {
       "lang": "EN",
-      "question": "What does the 2nd conditional describe?",
+      "question": "What does the phrasal verb 'give up' mean?",
       "options": {
-        "A": "sytuacje prawdopodobne",
-        "B": "sytuacje mało prawdopodobne",
-        "C": "sytuacje możliwe",
-        "D": "sytuacje niezrealizowane"
+        "A": "to start something",
+        "B": "to quit/stop trying",
+        "C": "to give a gift",
+        "D": "to wake up early"
       },
       "answer": "B",
-      "explanation": "2. warunek opisuje sytuacje, które są mało prawdopodobne."
+      "explanation": "Give up = rezygnować, poddawać się. Np. 'Don't give up on your dreams!'"
     },
     {
       "lang": "EN",
-      "question": "What is the purpose of learning business vocabulary?",
+      "question": "Kiedy używamy czasu Present Perfect?",
       "options": {
-        "A": "podróże",
-        "B": "rozrywka",
-        "C": "komunikacja w środowisku biznesowym",
-        "D": "nauka języka"
+        "A": "Gdy mówimy o zdarzeniach, które się wydarzyły w przeszłości i nie mają związku z teraźniejszością",
+        "B": "Gdy mówimy o zdarzeniach, które się wydarzyły w przeszłości, ale mają związek z teraźniejszością",
+        "C": "Gdy mówimy o zdarzeniach, które się wydarzą w przyszłości",
+        "D": "Gdy mówimy o zdarzeniach, które są teraz"
       },
-      "answer": "C",
-      "explanation": "Poznanie słownictwa biznesowego pomoże w komunikacji w środowisku biznesowym."
+      "answer": "B",
+      "explanation": "Czas Present Perfect używamy, gdy mówimy o czymś, co się wydarzyło w przeszłości, ale ma związek z teraźniejszością."
     },
     {
       "lang": "EN",
-      "question": "What does the idiom 'burn out' mean?",
+      "question": "Co to jest reported speech?",
       "options": {
-        "A": "wypalenie się",
-        "B": "znużenie",
-        "C": "zmęczenie",
-        "D": "stres"
+        "A": "Sposób, w jaki przekazujemy słowa innych osób w czasie teraźniejszym",
+        "B": "Sposób, w jaki przekazujemy słowa innych osób w czasie przeszłym",
+        "C": "Sposób, w jaki przekazujemy słowa innych osób w czasie przyszłym",
+        "D": "Sposób, w jaki przekazujemy własne myśli"
+      },
+      "answer": "B",
+      "explanation": "Reported speech to sposób, w jaki przekazujemy słowa innych osób w czasie przeszłym."
+    },
+    {
+      "lang": "EN",
+      "question": "Co oznacza idiom 'to burn out'?",
+      "options": {
+        "A": "Wypalenie się zawodowe lub emocjonalne",
+        "B": "Zmęczenie fizyczne",
+        "C": "Choroba psychiczna",
+        "D": "Uraz fizyczny"
       },
       "answer": "A",
-      "explanation": "Idiom 'burn out' odnosi się do stanu wypalenia się."
-    },
-    {
-      "lang": "EN",
-      "question": "What is the difference between Present Perfect and Past Simple?",
-      "options": {
-        "A": "Present Perfect opisuje sytuacje z przeszłości, a Past Simple z teraźniejszości",
-        "B": "Present Perfect opisuje sytuacje z teraźniejszości, a Past Simple z przeszłości",
-        "C": "Present Perfect opisuje sytuacje z przyszłości, a Past Simple z teraźniejszości",
-        "D": "Present Perfect opisuje sytuacje z teraźniejszości, a Past Simple z przyszłości"
-      },
-      "answer": "B",
-      "explanation": "Używamy Present Perfect, gdy mówimy o czymś, co się wydarzyło w przeszłości, ale ma jakiś związek z teraźniejszością, natomiast Past Simple używamy, gdy opisujemy zdarzenie, które się wydarzyło w przeszłości i nie ma związku z teraźniejszością."
+      "explanation": "Idiom 'to burn out' oznacza wypalenie się zawodowe lub emocjonalne."
     },
     {
       "lang": "DE",
-      "question": "What is the difference between 'nicht' and 'kein'?",
+      "question": "Jaka jest różnica między słowami 'nicht' i 'kein'?",
       "options": {
-        "A": "'nicht' i 'kein' mają takie same znaczenie",
-        "B": "'nicht' jest używane do negacji zdania, a 'kein' do negacji rzeczownika",
-        "C": "'nicht' jest używane do negacji rzeczownika, a 'kein' do negacji zdania",
-        "D": "'nicht' i 'kein' są używane tylko w przypadku Nominativu"
+        "A": "Nicht jest używane do negacji zdania, a kein do negacji rzeczownika",
+        "B": "Nicht jest używane do negacji rzeczownika, a kein do negacji zdania",
+        "C": "Nicht i kein są synonimami",
+        "D": "Nicht jest używane tylko w czasie teraźniejszym, a kein w czasie przeszłym"
       },
-      "answer": "B",
-      "explanation": "Słowo 'nicht' jest używane do negacji zdania, a 'kein' do negacji rzeczownika."
+      "answer": "A",
+      "explanation": "Słowa 'nicht' i 'kein' są używane do negacji, ale mają różne znaczenia. 'Nicht' jest używane do negacji zdania, a 'kein' do negacji rzeczownika."
     },
     {
       "lang": "DE",
-      "question": "How are nouns formed in the plural in German?",
+      "question": "Co to są czasowniki rozdzielne?",
       "options": {
-        "A": "wszystkie rzeczowniki dodają '-e' na końcu",
-        "B": "wszystkie rzeczowniki dodają '-en' na końcu",
-        "C": "rzeczowniki mają różne końcówki w liczbie mnogiej, takie jak '-e', '-en' lub '-er'",
-        "D": "rzeczowniki nie zmieniają formy w liczbie mnogiej"
+        "A": "Czasowniki, które składają się z dwóch części: przedrostka i rdzenia",
+        "B": "Czasowniki, które składają się z trzech części: przedrostka, rdzenia i przyrostka",
+        "C": "Czasowniki, które nie mają przedrostka",
+        "D": "Czasowniki, które zawsze są w czasie teraźniejszym"
       },
-      "answer": "C",
-      "explanation": "Rzeczowniki w języku niemieckim mają różne formy liczby mnogiej, takie jak '-e', '-en' lub '-er'."
+      "answer": "A",
+      "explanation": "Czasowniki rozdzielne to specjalny rodzaj czasowników niemieckich, które składają się z dwóch części: przedrostka i rdzenia."
     },
     {
       "lang": "DE",
-      "question": "What is the function of the articles 'der', 'die' and 'das'?",
+      "question": "Jaki jest cel używania rodzajników der, die i das?",
       "options": {
-        "A": "określenie liczby mnogiej",
-        "B": "określenie przypadku",
-        "C": "określenie rodzaju rzeczy lub osoby",
-        "D": "określenie czasu"
+        "A": "Określenie płci rzeczy lub osoby",
+        "B": "Określenie liczby rzeczy lub osoby",
+        "C": "Określenie przypadku rzeczy lub osoby",
+        "D": "Określenie rodzaju rzeczy lub osoby"
       },
-      "answer": "C",
-      "explanation": "Rodzajniki 'der', 'die' i 'das' określają rodzaj rzeczy lub osoby."
+      "answer": "D",
+      "explanation": "Rodzajniki der, die i das są bardzo ważne w języku niemieckim, ponieważ określają rodzaj rzeczy lub osoby."
     }
   ],
   "current": 0,
   "score": 0,
-  "date": "2026-06-05"
+  "date": "2026-06-19"
 }
