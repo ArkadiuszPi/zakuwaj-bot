@@ -2,90 +2,90 @@
   "questions": [
     {
       "lang": "EN",
-      "question": "What does the phrasal verb 'give up' mean?",
+      "question": "What is the main purpose of using reported speech?",
       "options": {
-        "A": "to start something",
-        "B": "to quit/stop trying",
-        "C": "to give a gift",
-        "D": "to wake up early"
+        "A": "to quote someone directly",
+        "B": "to avoid quoting someone directly",
+        "C": "to change the meaning of the sentence",
+        "D": "to make the sentence more complex"
       },
       "answer": "B",
-      "explanation": "Give up = rezygnować, poddawać się. Np. 'Don't give up on your dreams!'"
+      "explanation": "Reported speech służy do uniknięcia cytowania kogoś wprost, czyli do przekazania informacji w sposób pośredni."
     },
     {
       "lang": "EN",
-      "question": "Kiedy używamy czasu Present Perfect?",
+      "question": "What is a phrasal verb?",
       "options": {
-        "A": "Gdy mówimy o zdarzeniach, które się wydarzyły w przeszłości i nie mają związku z teraźniejszością",
-        "B": "Gdy mówimy o zdarzeniach, które się wydarzyły w przeszłości, ale mają związek z teraźniejszością",
-        "C": "Gdy mówimy o zdarzeniach, które się wydarzą w przyszłości",
-        "D": "Gdy mówimy o zdarzeniach, które są teraz"
+        "A": "a verb that stands alone",
+        "B": "a combination of a verb and a preposition",
+        "C": "a combination of a verb and a noun",
+        "D": "a combination of a verb and an adjective"
       },
       "answer": "B",
-      "explanation": "Czas Present Perfect używamy, gdy mówimy o czymś, co się wydarzyło w przeszłości, ale ma związek z teraźniejszością."
+      "explanation": "Phrasal verb to połączenie czasownika z przyimkiem lub przedimkiem, które razem tworzą nowe znaczenie."
     },
     {
       "lang": "EN",
-      "question": "Co to jest reported speech?",
+      "question": "What is the 2nd conditional used for?",
       "options": {
-        "A": "Sposób, w jaki przekazujemy słowa innych osób w czasie teraźniejszym",
-        "B": "Sposób, w jaki przekazujemy słowa innych osób w czasie przeszłym",
-        "C": "Sposób, w jaki przekazujemy słowa innych osób w czasie przyszłym",
-        "D": "Sposób, w jaki przekazujemy własne myśli"
+        "A": "to describe real situations",
+        "B": "to describe hypothetical or unlikely situations",
+        "C": "to describe past situations",
+        "D": "to describe future situations"
       },
       "answer": "B",
-      "explanation": "Reported speech to sposób, w jaki przekazujemy słowa innych osób w czasie przeszłym."
+      "explanation": "Drugie warunki są używane do opisu sytuacji hipotetycznych lub nieprawdopodobnych, np. 'If I won the lottery, I would buy a house'."
     },
     {
       "lang": "EN",
-      "question": "Co oznacza idiom 'to burn out'?",
+      "question": "What is the difference between direct and reported speech?",
       "options": {
-        "A": "Wypalenie się zawodowe lub emocjonalne",
-        "B": "Zmęczenie fizyczne",
-        "C": "Choroba psychiczna",
-        "D": "Uraz fizyczny"
+        "A": "direct speech is used for formal situations, while reported speech is used for informal situations",
+        "B": "direct speech is used for quoting someone directly, while reported speech is used for quoting someone indirectly",
+        "C": "direct speech is used for past situations, while reported speech is used for present situations",
+        "D": "direct speech is used for future situations, while reported speech is used for past situations"
       },
-      "answer": "A",
-      "explanation": "Idiom 'to burn out' oznacza wypalenie się zawodowe lub emocjonalne."
+      "answer": "B",
+      "explanation": "Mowa bezpośrednia (direct speech) polega na cytowaniu kogoś wprost, natomiast mowa niebezpośrednia (reported speech) polega na przekazaniu informacji w sposób pośredni."
     },
     {
       "lang": "DE",
-      "question": "Jaka jest różnica między słowami 'nicht' i 'kein'?",
+      "question": "Was bedeutet das Wort 'kann' im Deutschen?",
       "options": {
-        "A": "Nicht jest używane do negacji zdania, a kein do negacji rzeczownika",
-        "B": "Nicht jest używane do negacji rzeczownika, a kein do negacji zdania",
-        "C": "Nicht i kein są synonimami",
-        "D": "Nicht jest używane tylko w czasie teraźniejszym, a kein w czasie przeszłym"
-      },
-      "answer": "A",
-      "explanation": "Słowa 'nicht' i 'kein' są używane do negacji, ale mają różne znaczenia. 'Nicht' jest używane do negacji zdania, a 'kein' do negacji rzeczownika."
-    },
-    {
-      "lang": "DE",
-      "question": "Co to są czasowniki rozdzielne?",
-      "options": {
-        "A": "Czasowniki, które składają się z dwóch części: przedrostka i rdzenia",
-        "B": "Czasowniki, które składają się z trzech części: przedrostka, rdzenia i przyrostka",
-        "C": "Czasowniki, które nie mają przedrostka",
-        "D": "Czasowniki, które zawsze są w czasie teraźniejszym"
-      },
-      "answer": "A",
-      "explanation": "Czasowniki rozdzielne to specjalny rodzaj czasowników niemieckich, które składają się z dwóch części: przedrostka i rdzenia."
-    },
-    {
-      "lang": "DE",
-      "question": "Jaki jest cel używania rodzajników der, die i das?",
-      "options": {
-        "A": "Określenie płci rzeczy lub osoby",
-        "B": "Określenie liczby rzeczy lub osoby",
-        "C": "Określenie przypadku rzeczy lub osoby",
-        "D": "Określenie rodzaju rzeczy lub osoby"
+        "A": "Muss",
+        "B": "Will",
+        "C": "Können",
+        "D": "Möglichkeit"
       },
       "answer": "D",
-      "explanation": "Rodzajniki der, die i das są bardzo ważne w języku niemieckim, ponieważ określają rodzaj rzeczy lub osoby."
+      "explanation": "Das Wort 'kann' bedeutet Möglichkeit oder Fähigkeit, etwas zu tun, np. 'Ich kann Deutsch sprechen'."
+    },
+    {
+      "lang": "DE",
+      "question": "Wann wird 'nicht' und wann 'kein' verwendet?",
+      "options": {
+        "A": "'Nicht' wird für Verben verwendet, 'kein' für Nomen",
+        "B": "'Nicht' wird für Nomen verwendet, 'kein' für Verben",
+        "C": "'Nicht' wird für Adjektive verwendet, 'kein' für Adverbien",
+        "D": "'Nicht' wird für Adverbien verwendet, 'kein' für Adjektive"
+      },
+      "answer": "A",
+      "explanation": "Das Wort 'nicht' wird verwendet, um Verben zu negieren, während 'kein' verwendet wird, um Nomen zu negieren, np. 'Ich bin nicht müde' vs 'Ich habe kein Auto'."
+    },
+    {
+      "lang": "DE",
+      "question": "Was sind trennbare Verben?",
+      "options": {
+        "A": "Verben, die immer zusammen verwendet werden",
+        "B": "Verben, die aus zwei Teilen bestehen: Vorsilbe und Verb",
+        "C": "Verben, die nur im Präsens verwendet werden",
+        "D": "Verben, die nur im Perfekt verwendet werden"
+      },
+      "answer": "B",
+      "explanation": "Trennbare Verben sind Verben, die aus zwei Teilen bestehen: Vorsilbe und Verb, np. 'aufstehen' oder 'anrufen'."
     }
   ],
   "current": 0,
   "score": 0,
-  "date": "2026-06-19"
+  "date": "2026-06-26"
 }
