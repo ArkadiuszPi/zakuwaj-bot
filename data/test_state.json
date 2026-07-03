@@ -2,90 +2,90 @@
   "questions": [
     {
       "lang": "EN",
-      "question": "What is the main purpose of using reported speech?",
+      "question": "What is the main purpose of using the passive voice in English?",
       "options": {
-        "A": "to quote someone directly",
-        "B": "to avoid quoting someone directly",
-        "C": "to change the meaning of the sentence",
-        "D": "to make the sentence more complex"
+        "A": "to emphasize the doer of the action",
+        "B": "to emphasize the action itself",
+        "C": "to change the verb tense",
+        "D": "to use more complex grammar"
       },
       "answer": "B",
-      "explanation": "Reported speech służy do uniknięcia cytowania kogoś wprost, czyli do przekazania informacji w sposób pośredni."
+      "explanation": "Głos biopsy jest używany, gdy chcemy powiedzieć, kto lub co wykonuje pewne działanie, ale skupiamy się na samym działaniu, a nie na wykonawcy."
     },
     {
       "lang": "EN",
-      "question": "What is a phrasal verb?",
+      "question": "What does the idiom 'to burn out' mean?",
       "options": {
-        "A": "a verb that stands alone",
-        "B": "a combination of a verb and a preposition",
-        "C": "a combination of a verb and a noun",
-        "D": "a combination of a verb and an adjective"
+        "A": "to feel very energetic",
+        "B": "to be very happy",
+        "C": "to be completely exhausted",
+        "D": "to be very angry"
       },
-      "answer": "B",
-      "explanation": "Phrasal verb to połączenie czasownika z przyimkiem lub przedimkiem, które razem tworzą nowe znaczenie."
+      "answer": "C",
+      "explanation": "Idiom 'to burn out' oznacza całkowite wypalenie się zawodowe lub emocjonalne, często wynikające z przepracowania."
     },
     {
       "lang": "EN",
-      "question": "What is the 2nd conditional used for?",
+      "question": "When do we use the Present Perfect tense in English?",
       "options": {
-        "A": "to describe real situations",
-        "B": "to describe hypothetical or unlikely situations",
-        "C": "to describe past situations",
-        "D": "to describe future situations"
+        "A": "to describe finished actions in the past",
+        "B": "to describe actions that started in the past and have a connection to the present",
+        "C": "to describe actions that will happen in the future",
+        "D": "to describe actions that are happening now"
       },
       "answer": "B",
-      "explanation": "Drugie warunki są używane do opisu sytuacji hipotetycznych lub nieprawdopodobnych, np. 'If I won the lottery, I would buy a house'."
+      "explanation": "Czas Present Perfect używamy, gdy mówimy o działaniach, które zaczęły się w przeszłości i mają związek z teraźniejszością."
     },
     {
       "lang": "EN",
-      "question": "What is the difference between direct and reported speech?",
+      "question": "What is the difference between 'say' and 'tell' in English?",
       "options": {
-        "A": "direct speech is used for formal situations, while reported speech is used for informal situations",
-        "B": "direct speech is used for quoting someone directly, while reported speech is used for quoting someone indirectly",
-        "C": "direct speech is used for past situations, while reported speech is used for present situations",
-        "D": "direct speech is used for future situations, while reported speech is used for past situations"
+        "A": "say is used to give orders, tell is used to give advice",
+        "B": "say is used to quote someone, tell is used to give information",
+        "C": "say is used to ask questions, tell is used to answer questions",
+        "D": "say is used to describe actions, tell is used to describe emotions"
       },
       "answer": "B",
-      "explanation": "Mowa bezpośrednia (direct speech) polega na cytowaniu kogoś wprost, natomiast mowa niebezpośrednia (reported speech) polega na przekazaniu informacji w sposób pośredni."
+      "explanation": "Różnica między 'say' i 'tell' polega na tym, że 'say' oznacza wypowiedzenie słów, natomiast 'tell' oznacza przekazanie informacji."
     },
     {
       "lang": "DE",
-      "question": "Was bedeutet das Wort 'kann' im Deutschen?",
+      "question": "What is the purpose of using 'nicht' and 'kein' in German?",
       "options": {
-        "A": "Muss",
-        "B": "Will",
-        "C": "Können",
-        "D": "Möglichkeit"
+        "A": "to express affirmation",
+        "B": "to express negation",
+        "C": "to express doubt",
+        "D": "to express surprise"
+      },
+      "answer": "B",
+      "explanation": "Negacja to sposób mówienia 'nie' w języku niemieckim, a 'nicht' i 'kein' są dwoma ważnymi słowami, które należy umieć używać."
+    },
+    {
+      "lang": "DE",
+      "question": "How do we form the plural of nouns in German?",
+      "options": {
+        "A": "by adding -s to the end of the noun",
+        "B": "by changing the vowel in the noun",
+        "C": "by adding -n or -en to the end of the noun",
+        "D": "by using different forms for each noun"
       },
       "answer": "D",
-      "explanation": "Das Wort 'kann' bedeutet Möglichkeit oder Fähigkeit, etwas zu tun, np. 'Ich kann Deutsch sprechen'."
+      "explanation": "Liczba mnoga w języku niemieckim jest używana, gdy mówimy o kilku rzeczach. Niektóre rzeczowniki mają swoje własne formy liczby mnogiej."
     },
     {
       "lang": "DE",
-      "question": "Wann wird 'nicht' und wann 'kein' verwendet?",
+      "question": "What does the modal verb 'kann' mean in German?",
       "options": {
-        "A": "'Nicht' wird für Verben verwendet, 'kein' für Nomen",
-        "B": "'Nicht' wird für Nomen verwendet, 'kein' für Verben",
-        "C": "'Nicht' wird für Adjektive verwendet, 'kein' für Adverbien",
-        "D": "'Nicht' wird für Adverbien verwendet, 'kein' für Adjektive"
-      },
-      "answer": "A",
-      "explanation": "Das Wort 'nicht' wird verwendet, um Verben zu negieren, während 'kein' verwendet wird, um Nomen zu negieren, np. 'Ich bin nicht müde' vs 'Ich habe kein Auto'."
-    },
-    {
-      "lang": "DE",
-      "question": "Was sind trennbare Verben?",
-      "options": {
-        "A": "Verben, die immer zusammen verwendet werden",
-        "B": "Verben, die aus zwei Teilen bestehen: Vorsilbe und Verb",
-        "C": "Verben, die nur im Präsens verwendet werden",
-        "D": "Verben, die nur im Perfekt verwendet werden"
+        "A": "must",
+        "B": "can",
+        "C": "will",
+        "D": "should"
       },
       "answer": "B",
-      "explanation": "Trennbare Verben sind Verben, die aus zwei Teilen bestehen: Vorsilbe und Verb, np. 'aufstehen' oder 'anrufen'."
+      "explanation": "Czasownik kann oznacza 'umieć' lub 'może'."
     }
   ],
   "current": 0,
   "score": 0,
-  "date": "2026-06-26"
+  "date": "2026-07-03"
 }
