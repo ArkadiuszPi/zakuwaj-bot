@@ -2,90 +2,90 @@
   "questions": [
     {
       "lang": "EN",
-      "question": "What is the main purpose of using the passive voice in English?",
+      "question": "What is the main difference between 'say' and 'tell'?",
       "options": {
-        "A": "to emphasize the doer of the action",
-        "B": "to emphasize the object of the action",
-        "C": "to change the tense of the sentence",
-        "D": "to make the sentence more complex"
+        "A": "Say is used for giving orders, Tell is used for giving advice",
+        "B": "Say is used for speaking, Tell is used for giving information",
+        "C": "Say is used for writing, Tell is used for reading",
+        "D": "Say is used for listening, Tell is used for speaking"
       },
       "answer": "B",
-      "explanation": "Głos bierny jest używany, aby podkreślić obiekt działania, a nie osobę, która wykonuje to działanie."
+      "explanation": "Różnica między 'say' i 'tell' polega na tym, że 'say' odnosi się do wypowiadania słów lub zdań, natomiast 'tell' oznacza przekazywanie informacji lub opowiadanie historii."
     },
     {
       "lang": "EN",
-      "question": "What does the idiom 'to burn out' mean?",
+      "question": "What is reported speech used for?",
       "options": {
-        "A": "to be very energetic",
-        "B": "to be very tired",
-        "C": "to be completely exhausted, physically or mentally",
-        "D": "to be very happy"
+        "A": "To quote someone directly",
+        "B": "To change the subject of a conversation",
+        "C": "To give information about what someone said, without quoting them directly",
+        "D": "To ask questions"
       },
       "answer": "C",
-      "explanation": "Idiom 'to burn out' oznacza całkowite wypalenie się zawodowe lub emocjonalne."
+      "explanation": "Reported speech to sposób, w jaki przekazujemy słowa innej osoby bez cytowania ich dosłownie, aby opowiedzieć o tym, co ktoś powiedział, bez powtarzania jego słów."
     },
     {
       "lang": "EN",
-      "question": "What is the difference between the 2nd and 3rd conditional?",
+      "question": "What is the purpose of using the passive voice?",
       "options": {
-        "A": "2nd conditional is used for past situations, 3rd conditional is used for present situations",
-        "B": "2nd conditional is used for present situations, 3rd conditional is used for past situations",
-        "C": "2nd conditional is used for hypothetical situations, 3rd conditional is used for past hypothetical situations",
-        "D": "2nd conditional is used for real situations, 3rd conditional is used for unreal situations"
+        "A": "To emphasize the doer of the action",
+        "B": "To change the verb tense",
+        "C": "To emphasize the effect of the action, rather than the doer",
+        "D": "To make the sentence longer"
       },
       "answer": "C",
-      "explanation": "Drugi warunek (2nd conditional) opisuje sytuacje, które są mało prawdopodobne, ale możliwe, natomiast trzeci warunek (3rd conditional) opisuje sytuacje, które nie miały miejsca w przeszłości."
+      "explanation": "Czasownik w stronie biernej jest używany, gdy chcemy powiedzieć, kto lub co wykonuje daną czynność, ale nie jest to najważniejsze, tylko efekt tej czynności."
     },
     {
       "lang": "EN",
-      "question": "What is the purpose of using reported speech in English?",
+      "question": "What is the difference between 'make' and 'do'?",
       "options": {
-        "A": "to repeat what someone said word for word",
-        "B": "to change the meaning of what someone said",
-        "C": "to report what someone said in a different way",
-        "D": "to ignore what someone said"
+        "A": "Make is used for creating something, Do is used for performing a task",
+        "B": "Make is used for performing a task, Do is used for creating something",
+        "C": "Make is used for giving orders, Do is used for giving advice",
+        "D": "Make is used for writing, Do is used for reading"
       },
-      "answer": "C",
-      "explanation": "Reported speech to sposób przekazywania wypowiedzi innych osób w sposób pośredni, często używany w rozmowach i narracjach."
+      "answer": "A",
+      "explanation": "Różnica między 'make' i 'do' polega na tym, że 'make' oznacza tworzenie lub wytwarzanie czegoś, natomiast 'do' oznacza wykonywanie jakiejś czynności."
     },
     {
       "lang": "DE",
-      "question": "What are separable verbs in German?",
+      "question": "What is the purpose of using the separable verbs in German?",
       "options": {
-        "A": "verbs that are always used in the present tense",
-        "B": "verbs that are always used in the past tense",
-        "C": "verbs that consist of a prefix and a root",
-        "D": "verbs that do not exist in German"
-      },
-      "answer": "C",
-      "explanation": "Czasowniki rozdzielne to specjalne czasowniki niemieckie, które składają się z dwóch części: przedimka i rdzenia."
-    },
-    {
-      "lang": "DE",
-      "question": "How do you form the plural of nouns in German?",
-      "options": {
-        "A": "by adding -e or -en to the end of the noun",
-        "B": "by changing the beginning of the noun",
-        "C": "by removing the last letter of the noun",
-        "D": "it depends on the noun, there is no general rule"
+        "A": "To change the verb tense",
+        "B": "To emphasize the doer of the action",
+        "C": "To separate the verb from the rest of the sentence",
+        "D": "To create a new verb meaning by combining a verb with a prefix"
       },
       "answer": "D",
-      "explanation": "Rzeczowniki w języku niemieckim mają różne formy liczby mnogiej, niektóre dodają -e lub -en na końcu, aby utworzyć liczbę mnogą."
+      "explanation": "Czasowniki rozdzielne to specjalne czasowniki niemieckie, które składają się z dwóch części: przedrostka i korzenia, tworząc nowe znaczenie."
     },
     {
       "lang": "DE",
-      "question": "What is the purpose of learning thematic vocabulary in German?",
+      "question": "What is the difference between 'kann', 'muss' and 'will'?",
       "options": {
-        "A": "to learn grammar rules",
-        "B": "to learn pronunciation",
-        "C": "to be able to communicate in everyday situations",
-        "D": "to read German literature"
+        "A": "Kann means must, Muss means can, Will means want",
+        "B": "Kann means can, Muss means must, Will means want",
+        "C": "Kann means want, Muss means can, Will means must",
+        "D": "Kann means must, Muss means want, Will means can"
       },
-      "answer": "C",
-      "explanation": "Uczymy się nowych słów związanych z jedzeniem, transportem i pracą, aby łatwiej porozumieć się w niemieckim języku."
+      "answer": "B",
+      "explanation": "Czasownik 'kann' oznacza umiejętność, 'muss' oznacza konieczność, a 'will' oznacza wolę, są używane do wyrażania różnych stopni możliwości i konieczności."
+    },
+    {
+      "lang": "DE",
+      "question": "Why is it important to learn the plural forms of German nouns?",
+      "options": {
+        "A": "Because they are always the same as the singular form",
+        "B": "Because they are never used in sentences",
+        "C": "Because they can change the meaning of the sentence",
+        "D": "Because they can be different from the singular form and need to be memorized"
+      },
+      "answer": "D",
+      "explanation": "Rzeczowniki w języku niemieckim mają różne formy w liczbie mnogiej, które mogą się różnić od formy singularnej i wymagają zapamiętania."
     }
   ],
   "current": 0,
   "score": 0,
-  "date": "2026-07-10"
+  "date": "2026-07-17"
 }
