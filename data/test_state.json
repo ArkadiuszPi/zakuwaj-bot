@@ -2,90 +2,90 @@
   "questions": [
     {
       "lang": "EN",
-      "question": "What is the main difference between 'say' and 'tell'?",
+      "question": "What does the phrasal verb 'give up' mean?",
       "options": {
-        "A": "Say is used for giving orders, Tell is used for giving advice",
-        "B": "Say is used for speaking, Tell is used for giving information",
-        "C": "Say is used for writing, Tell is used for reading",
-        "D": "Say is used for listening, Tell is used for speaking"
+        "A": "to start something",
+        "B": "to quit/stop trying",
+        "C": "to give a gift",
+        "D": "to wake up early"
       },
       "answer": "B",
-      "explanation": "Różnica między 'say' i 'tell' polega na tym, że 'say' odnosi się do wypowiadania słów lub zdań, natomiast 'tell' oznacza przekazywanie informacji lub opowiadanie historii."
+      "explanation": "Give up = rezygnować, poddawać się. Np. 'Don't give up on your dreams!'"
+    },
+    {
+      "lang": "EN",
+      "question": "What is the main difference between 'say' and 'tell'?",
+      "options": {
+        "A": "say is formal, tell is informal",
+        "B": "say is used for general statements, tell is used for specific statements",
+        "C": "say is used for questions, tell is used for answers",
+        "D": "say is used for commands, tell is used for requests"
+      },
+      "answer": "B",
+      "explanation": "Różnica między 'say' i 'tell' polega na tym, że 'say' oznacza wypowiedzenie czegoś, natomiast 'tell' oznacza powiedzenie komuś coś konkretnego."
+    },
+    {
+      "lang": "EN",
+      "question": "What is the passive voice used for?",
+      "options": {
+        "A": "to describe someone's actions",
+        "B": "to describe a place or object",
+        "C": "to describe a situation where the doer is unknown or unimportant",
+        "D": "to describe a historical event"
+      },
+      "answer": "C",
+      "explanation": "Głos biopsy jest używany, gdy chcemy opowiedzieć o kimś lub czymś, na którego/które coś działo się, zamiast kto lub co działo coś."
     },
     {
       "lang": "EN",
       "question": "What is reported speech used for?",
       "options": {
-        "A": "To quote someone directly",
-        "B": "To change the subject of a conversation",
-        "C": "To give information about what someone said, without quoting them directly",
-        "D": "To ask questions"
+        "A": "to quote someone directly",
+        "B": "to describe a situation",
+        "C": "to tell a story",
+        "D": "to report what someone else said, using different words"
       },
-      "answer": "C",
-      "explanation": "Reported speech to sposób, w jaki przekazujemy słowa innej osoby bez cytowania ich dosłownie, aby opowiedzieć o tym, co ktoś powiedział, bez powtarzania jego słów."
+      "answer": "D",
+      "explanation": "Reported speech to sposób, w jaki przekazujemy to, co ktoś innego powiedział, używając innych słów."
     },
     {
-      "lang": "EN",
-      "question": "What is the purpose of using the passive voice?",
+      "lang": "DE",
+      "question": "What is the difference between 'nicht' and 'kein'?",
       "options": {
-        "A": "To emphasize the doer of the action",
-        "B": "To change the verb tense",
-        "C": "To emphasize the effect of the action, rather than the doer",
-        "D": "To make the sentence longer"
-      },
-      "answer": "C",
-      "explanation": "Czasownik w stronie biernej jest używany, gdy chcemy powiedzieć, kto lub co wykonuje daną czynność, ale nie jest to najważniejsze, tylko efekt tej czynności."
-    },
-    {
-      "lang": "EN",
-      "question": "What is the difference between 'make' and 'do'?",
-      "options": {
-        "A": "Make is used for creating something, Do is used for performing a task",
-        "B": "Make is used for performing a task, Do is used for creating something",
-        "C": "Make is used for giving orders, Do is used for giving advice",
-        "D": "Make is used for writing, Do is used for reading"
+        "A": "nicht is used for negating verbs, kein is used for negating nouns",
+        "B": "nicht is used for negating nouns, kein is used for negating verbs",
+        "C": "nicht is used for formal situations, kein is used for informal situations",
+        "D": "nicht is used for questions, kein is used for answers"
       },
       "answer": "A",
-      "explanation": "Różnica między 'make' i 'do' polega na tym, że 'make' oznacza tworzenie lub wytwarzanie czegoś, natomiast 'do' oznacza wykonywanie jakiejś czynności."
+      "explanation": "Negacja 'nicht' i 'kein' różnią się tym, że 'nicht' jest używane do negowania czasowników, a 'kein' do negowania rzeczowników."
     },
     {
       "lang": "DE",
-      "question": "What is the purpose of using the separable verbs in German?",
+      "question": "What are separable verbs?",
       "options": {
-        "A": "To change the verb tense",
-        "B": "To emphasize the doer of the action",
-        "C": "To separate the verb from the rest of the sentence",
-        "D": "To create a new verb meaning by combining a verb with a prefix"
+        "A": "verbs that can be separated from their prefix",
+        "B": "verbs that cannot be separated from their prefix",
+        "C": "verbs that are only used in formal situations",
+        "D": "verbs that are only used in informal situations"
       },
-      "answer": "D",
-      "explanation": "Czasowniki rozdzielne to specjalne czasowniki niemieckie, które składają się z dwóch części: przedrostka i korzenia, tworząc nowe znaczenie."
+      "answer": "A",
+      "explanation": "Czasowniki rozdzielne to rodzaj czasowników, które składają się z dwóch części: przedrostka i rdzenia czasownika, które mogą być rozdzielone w zdaniu."
     },
     {
       "lang": "DE",
-      "question": "What is the difference between 'kann', 'muss' and 'will'?",
+      "question": "What are the three main articles in German?",
       "options": {
-        "A": "Kann means must, Muss means can, Will means want",
-        "B": "Kann means can, Muss means must, Will means want",
-        "C": "Kann means want, Muss means can, Will means must",
-        "D": "Kann means must, Muss means want, Will means can"
+        "A": "der, die, das",
+        "B": "der, die, dem",
+        "C": "das, die, dem",
+        "D": "der, dem, das"
       },
-      "answer": "B",
-      "explanation": "Czasownik 'kann' oznacza umiejętność, 'muss' oznacza konieczność, a 'will' oznacza wolę, są używane do wyrażania różnych stopni możliwości i konieczności."
-    },
-    {
-      "lang": "DE",
-      "question": "Why is it important to learn the plural forms of German nouns?",
-      "options": {
-        "A": "Because they are always the same as the singular form",
-        "B": "Because they are never used in sentences",
-        "C": "Because they can change the meaning of the sentence",
-        "D": "Because they can be different from the singular form and need to be memorized"
-      },
-      "answer": "D",
-      "explanation": "Rzeczowniki w języku niemieckim mają różne formy w liczbie mnogiej, które mogą się różnić od formy singularnej i wymagają zapamiętania."
+      "answer": "A",
+      "explanation": "Trzy główne rodzajniki w języku niemieckim to 'der', 'die' i 'das', które są używane do określania rodzaju rzeczy lub osoby."
     }
   ],
   "current": 0,
   "score": 0,
-  "date": "2026-07-17"
+  "date": "2026-07-24"
 }
