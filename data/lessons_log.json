@@ -1,10 +1,5 @@
 [
   {
-    "ts": "2026-05-31T10:07:25.927212+00:00",
-    "lang": "EN",
-    "content": "🇬🇧 *LEKCJA ANGIELSKIEGO*\n\n📖 *Temat:* Słownictwo biznesowe B2/C1\n\nW tej lekcji będziemy się skupiać na słownictwie związanym z biznesem, takim jak zarządzanie, marketing i finanse. Poznanie tego słownictwa pomoże w komunikacji w środowisku biznesowym. Będzie to bardzo przydatne w pracy lub w rozmowach z klientami.\n\n✏️ *Przykład:*\n➜ The company will launch a new product next quarter.\n🇵🇱 Firma wprowadzi na rynek nowy produkt w następnym kwartale.\n\n📐 *Czas/konstrukcja:* Future Simple: will + V1\n\n💡 *Zapamiętaj:* Aby łatwiej zapamiętać nowe słownictwo, staraj się używać jego w krótkich zdaniach i powtarzaj je kilka razy."
-  },
-  {
     "ts": "2026-05-31T15:15:14.034788+00:00",
     "lang": "DE",
     "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Podstawowy przypadek (Nominativ/Akkusativ) na przykładzie\n\nTo jest bardzo ważny temat w języku niemieckim, ponieważ przypadki określają rolę słów w zdaniu. Nominativ i Akkusativ to dwa podstawowe przypadki, które musimy znać, aby tworzyć poprawne zdania. Przypadek Nominativ jest używany do określenia podmiotu zdania.\n\n✏️ *Przykład:*\n➜ Der Hund beißt den Mann.\n🇵🇱 Pies gryzie mężczyznę.\n\n📐 *Konstrukcja:* W przypadku Akkusativu używamy słowa \"den\" zamiast \"der\" przed rzeczownikami męskimi.\n\n💡 *Zapamiętaj:* Łatwy sposób, aby zapamiętać przypadki, to powtarzanie przykładów i ćwiczenie tworzenia zdań z różnymi przypadkami."
@@ -598,5 +593,10 @@
     "ts": "2026-07-29T15:46:42.354710+00:00",
     "lang": "DE",
     "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Negacja: nicht vs kein\n\nNegacja w języku niemieckim może być wyrażona przy użyciu słów \"nicht\" i \"kein\", ale mają one różne zastosowania. Słowo \"nicht\" jest używane do negacji zdania, natomiast \"kein\" do negacji rzeczownika. Pamiętaj, że \"kein\" jest odpowiednikiem polskiego \"nie\" przed rzeczownikiem.\n\n✏️ *Przykład:*\n➜ Ich bin nicht müde.\n🇵🇱 Nie jestem zmęczony.\n\n📐 *Konstrukcja:* \"Kein\" jest używane przed rzeczownikiem, np. \"kein Haus\" (nie dom), a \"nicht\" występuje po czasowniku, np. \"Ich gehe nicht\" (nie idę).\n\n💡 *Zapamiętaj:* Żeby zapamiętać różnicę między \"nicht\" a \"kein\", możesz użyć reguły: \"nicht\" to jak \"nie\" w zdaniu, a \"kein\" to jak \"nie\" przed rzeczownikiem."
+  },
+  {
+    "ts": "2026-07-30T10:12:46.415513+00:00",
+    "lang": "EN",
+    "content": "🇬🇧 *LEKCJA ANGIELSKIEGO*\n\n📖 *Temat:* Różnica między dwoma podobnymi słowami (np. say/tell, make/do)\n\nRóżnica między \"say\" i \"tell\" polega na tym, że \"say\" odnosi się do wypowiadanych słów, natomiast \"tell\" odnosi się do przekazywania informacji lub opowiadania historii. Przykładowo, możemy \"say\" coś krótkiego, ale \"tell\" historię. To subtelna, ale ważna różnica w użyciu tych słów.\n\n✏️ *Przykład:*\n➜ She said that she would be late.\n🇵🇱 Powiedziała, że będzie spóźniona.\n\n📐 *Czas/konstrukcja:* Czas przeszły prosty: said (V2) / told (V2)\n\n💡 *Zapamiętaj:* Zawsze używaj \"tell\" z osobą, do której coś mówisz, np. \"tell me\", \"tell him\", ale \"say\" może być użyte bez określenia kogoś, np. \"she said\"."
   }
 ]
