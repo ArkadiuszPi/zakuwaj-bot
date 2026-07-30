@@ -1,10 +1,5 @@
 [
   {
-    "ts": "2026-05-31T15:15:14.034788+00:00",
-    "lang": "DE",
-    "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Podstawowy przypadek (Nominativ/Akkusativ) na przykładzie\n\nTo jest bardzo ważny temat w języku niemieckim, ponieważ przypadki określają rolę słów w zdaniu. Nominativ i Akkusativ to dwa podstawowe przypadki, które musimy znać, aby tworzyć poprawne zdania. Przypadek Nominativ jest używany do określenia podmiotu zdania.\n\n✏️ *Przykład:*\n➜ Der Hund beißt den Mann.\n🇵🇱 Pies gryzie mężczyznę.\n\n📐 *Konstrukcja:* W przypadku Akkusativu używamy słowa \"den\" zamiast \"der\" przed rzeczownikami męskimi.\n\n💡 *Zapamiętaj:* Łatwy sposób, aby zapamiętać przypadki, to powtarzanie przykładów i ćwiczenie tworzenia zdań z różnymi przypadkami."
-  },
-  {
     "ts": "2026-06-01T13:28:29.236955+00:00",
     "lang": "DE",
     "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Negacja: nicht vs kein\n\nNegacja w języku niemieckim może być wyrażona przy użyciu słów \"nicht\" i \"kein\", które mają różne znaczenia i zastosowania. Słowo \"nicht\" jest używane do negowania czasowników, podczas gdy \"kein\" jest używane do negowania rzeczowników. Prawidłowe użycie tych słów jest bardzo ważne, aby uniknąć pomyłek w komunikacji.\n\n✏️ *Przykład:*\n➜ Ich bin nicht müde.\n🇵🇱 Nie jestem zmęczony.\n\n📐 *Konstrukcja:* \"Nicht\" jest umieszczane na końcu zdania, natomiast \"kein\" zajmuje miejsce przed rzeczownikiem, którego dotyczy.\n\n💡 *Zapamiętaj:* Łatwy sposób, aby zapamiętać różnicę między \"nicht\" i \"kein\", to przypomnienie sobie, że \"kein\" jest podobne do polskiego słowa \"żaden\", co oznacza brak czegoś, natomiast \"nicht\" jest ogólnym negatem, podobnym do polskiego \"nie\"."
@@ -598,5 +593,10 @@
     "ts": "2026-07-30T10:12:46.415513+00:00",
     "lang": "EN",
     "content": "🇬🇧 *LEKCJA ANGIELSKIEGO*\n\n📖 *Temat:* Różnica między dwoma podobnymi słowami (np. say/tell, make/do)\n\nRóżnica między \"say\" i \"tell\" polega na tym, że \"say\" odnosi się do wypowiadanych słów, natomiast \"tell\" odnosi się do przekazywania informacji lub opowiadania historii. Przykładowo, możemy \"say\" coś krótkiego, ale \"tell\" historię. To subtelna, ale ważna różnica w użyciu tych słów.\n\n✏️ *Przykład:*\n➜ She said that she would be late.\n🇵🇱 Powiedziała, że będzie spóźniona.\n\n📐 *Czas/konstrukcja:* Czas przeszły prosty: said (V2) / told (V2)\n\n💡 *Zapamiętaj:* Zawsze używaj \"tell\" z osobą, do której coś mówisz, np. \"tell me\", \"tell him\", ale \"say\" może być użyte bez określenia kogoś, np. \"she said\"."
+  },
+  {
+    "ts": "2026-07-30T15:47:12.860721+00:00",
+    "lang": "DE",
+    "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Rodzajniki der/die/das — praktyczna wskazówka\n\nRodzajniki der, die i das są używane do określania rodzaju męskiego, żeńskiego i nijakiego w języku niemieckim. Są one bardzo ważne w tworzeniu poprawnych zdaniach. Musisz nauczyć się, który rodzajnik pasuje do którego słowa.\n\n✏️ *Przykład:*\n➜ Der Mann ist groß.\n🇵🇱 Mąż jest wysoki.\n\n📐 *Konstrukcja:* Rodzajnik der jest używany z rzeczownikami męskimi, die z żeńskimi, a das z nijakimi.\n\n💡 *Zapamiętaj:* Aby łatwiej zapamiętać rodzajniki, możesz skojarzyć je z polskimi odpowiednikami: der - ten, die - ta, das - to."
   }
 ]
