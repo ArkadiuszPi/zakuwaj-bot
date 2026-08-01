@@ -1,10 +1,5 @@
 [
   {
-    "ts": "2026-06-02T11:57:45.201757+00:00",
-    "lang": "DE",
-    "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Podstawowy przypadek (Nominativ/Akkusativ) na przykładzie\n\nNiemiecki język ma cztery przypadki, ale zaczniemy od podstawowego, czyli Nominativu i Akkusativu. Te dwa przypadki są bardzo ważne, ponieważ określają funkcję wyrazu w zdaniu. Nauczysz się, jak je poprawnie stosować.\n\n✏️ *Przykład:*\n➜ Der Hund beißt den Mann.\n🇵🇱 Pies gryzie mężczyznę.\n\n📐 *Konstrukcja:* W przypadku Akkusativu używamy przedmiotu, na który wpływa działanie podmiotu.\n\n💡 *Zapamiętaj:* Pamiętaj, że Akkusativ jest używany, gdy mówisz o kimś lub czymś, na co wpływa działanie, np. \"ktoś gryzie kogoś\"."
-  },
-  {
     "ts": "2026-06-02T18:02:22.385819+00:00",
     "lang": "DE",
     "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Liczba mnoga rzeczowników — zasada\n\nRzeczowniki w języku niemieckim mają różne formy liczby mnogiej. Niektóre rzeczowniki dodają \"-e\" lub \"-en\" na końcu, ale są też wyjątki. Ważne jest zapamiętanie poszczególnych form każdego rzeczownika.\n\n✏️ *Przykład:*\n➜ Die Katze ist schön, die Katzen sind schön.\n🇵🇱 Kot jest ładny, koty są ładne.\n\n📐 *Konstrukcja:* W liczbie mnogiej rzeczowniki często dostają końcówkę \"-e\" lub \"-en\", ale trzeba uczyć się każdego wyrazu oddzielnie.\n\n💡 *Zapamiętaj:* Powtarzaj rzeczowniki w liczbie pojedynczej i mnogiej, aby łatwiej je zapamiętać."
@@ -603,5 +598,10 @@
     "ts": "2026-08-01T09:49:27.377654+00:00",
     "lang": "EN",
     "content": "🇬🇧 *LEKCJA ANGIELSKIEGO*\n\n📖 *Temat:* Passive voice w praktycznym zdaniu\n\nGłos biopsy jest używany, gdy chcemy powiedzieć, kto lub co wykonuje daną czynność, ale nie chcemy podawać wykonawcy. Jest to bardzo przydatna konstrukcja w języku angielskim, szczególnie w przypadku opisywania procesów lub zdarzeń. Dzięki głosowi biernemu możemy zmienić nacisk zdania i uczynić je bardziej interesującym.\n\n✏️ *Przykład:*\n➜ The new employee was trained by the HR department.\n🇵🇱 Nowy pracownik został przeszkolony przez dział HR.\n\n📐 *Czas/konstrukcja:* Passive voice: be + V3 (czasownika głównego w formie trzeciej)\n\n💡 *Zapamiętaj:* Zwróć uwagę na to, żeby używać odpowiedniej formy czasu przy konstrukcji głosu biernego, np. \"was\" z czasem past simple, aby uniknąć błędów gramatycznych."
+  },
+  {
+    "ts": "2026-08-01T14:54:49.351706+00:00",
+    "lang": "EN",
+    "content": "🇬🇧 *LEKCJA ANGIELSKIEGO*\n\n📖 *Temat:* Passive voice w praktycznym zdaniu\n\nGłos biopsy jest używany, gdy chcemy podkreślić działanie, a nie osobę, która je wykonuje. W tym celu używamy czasownika \"to be\" w odpowiedniej formie wraz z czasownikiem w formie przeszłej. Dzięki temu możemy zmienić focus zdania i nadać mu inny charakter.\n\n✏️ *Przykład:*\n➜ The play was written by Shakespeare.\n🇵🇱 Sztuka została napisana przez Szekspira.\n\n📐 *Czas/konstrukcja:* Passive Voice: to be (w odpowiedniej formie) + V3 (czasownik w formie przeszłej)\n\n💡 *Zapamiętaj:* Zwróć uwagę na to, że w głosie biernym podmiot otrzymuje działanie, a nie je wykonuje, co pozwala na zmianę akcentu w zdaniu i ułatwia opisywanie sytuacji, w których wykonawca działania nie jest istotny."
   }
 ]
