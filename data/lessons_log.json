@@ -1,10 +1,5 @@
 [
   {
-    "ts": "2026-06-06T15:09:20.157925+00:00",
-    "lang": "DE",
-    "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Modalne: kann/muss/will w zdaniu\n\nCzasownik kann oznacza \"umieć\" lub \"może\", muss oznacza \"musi\" lub \"trzeba\", a will oznacza \"chce\" lub \"będzie\". Te czasowniki są używane do wyrażania możliwości, obowiązku lub chęci czynienia czegoś. Są one bardzo ważne w języku niemieckim, ponieważ pozwalają wyrazić różne stopnie pewności lub chęci.\n\n✏️ *Przykład:*\n➜ Ich kann Deutsch sprechen.\n🇵🇱 Mogę mówić po niemiecku.\n\n📐 *Konstrukcja:* Czasownik modalny + infinitiw czasownika.\n\n💡 *Zapamiętaj:* Aby łatwiej zapamiętać znaczenie czasowników modalnych, możesz skojarzyć je z polskimi słowami: kann - można, muss - musi, will - chce."
-  },
-  {
     "ts": "2026-06-07T10:22:16.213828+00:00",
     "lang": "DE",
     "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Podstawowy przypadek (Nominativ/Akkusativ) na przykładzie\n\nJęzyk niemiecki ma cztery przypadki, ale zaczniemy od podstawowego, którym jest Nominativ. W tym przypadku mówimy o osobie lub rzeczy, która wykonuje czynność. Na przykładzie zobaczymy, jak to działa.\n\n✏️ *Przykład:*\n➜ Ich esse ein Sandwich.\n🇵🇱 Ja jem kanapkę.\n\n📐 *Konstrukcja:* W przypadku Nominativ zdanie zaczyna się od podmiotu, który wykonuje czynność, w tym przypadku \"ich\" (ja).\n\n💡 *Zapamiętaj:* Aby łatwiej zapamiętać Nominativ, pomyśl o sobie jako o wykonawcy czynności, na przykład \"ja jem\", \"ty jesz\", \"on/on/ono je\"."
@@ -598,5 +593,10 @@
     "ts": "2026-08-05T10:25:26.067932+00:00",
     "lang": "EN",
     "content": "🇬🇧 *LEKCJA ANGIELSKIEGO*\n\n📖 *Temat:* Różnica między dwoma podobnymi słowami (np. say/tell, make/do)\n\nW języku angielskim istnieją słowa, które są podobne w znaczeniu, ale różnią się w użyciu, np. \"say\" i \"tell\" oznaczają mówienie, ale \"tell\" częściej używany jest z osobą, do której się mówi. \"Make\" i \"do\" to kolejny przykład, gdzie \"make\" oznacza tworzenie lub produkowanie, a \"do\" oznacza wykonywanie czynności. Pamiętanie tych różnic jest kluczem do poprawnego użycia tych słów w zdaniach.\n\n✏️ *Przykład:*\n➜ I told her that I would be late.\n🇵🇱 Powiedziałem jej, że będę spóźniony.\n\n📐 *Czas/konstrukcja:* Czas teraźniejszy z czasownikiem \"tell\" - tell + osobie + co\n\n💡 *Zapamiętaj:* Zawsze używaj \"tell\" z osobą, do której się mówi, a \"say\" bez określania osoby, np. \"I say\" zamiast \"I tell\"."
+  },
+  {
+    "ts": "2026-08-05T15:57:42.555898+00:00",
+    "lang": "EN",
+    "content": "🇬🇧 *LEKCJA ANGIELSKIEGO*\n\n📖 *Temat:* Passive voice w praktycznym zdaniu\n\nGłos biopsy jest używany, gdy chcemy opowiedzieć o działaniu, bez wskazywania, kto je wykonuje. Dzięki temu możemy tworzyć zdania, które brzmią bardziej formalnie i profesjonalnie. Używając struktury biopsy, możemy zmienić nacisk w zdaniu z wykonawcy czynności na samą czynność.\n\n✏️ *Przykład:*\n➜ The play was written by Shakespeare.\n🇵🇱 Sztuka została napisana przez Szekspira.\n\n📐 *Czas/konstrukcja:* Passive Voice: to be + V3 (czasownik w formie trzeciej)\n\n💡 *Zapamiętaj:* Zwróć uwagę na to, że w strukturze biopsy czasownik \"to be\" musi być dostosowany do czasu, w którym występuje czynność, np. \"was written\" w czasie przeszłym, \"is written\" w czasie teraźniejszym."
   }
 ]
