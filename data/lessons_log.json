@@ -1,10 +1,5 @@
 [
   {
-    "ts": "2026-06-07T10:22:16.213828+00:00",
-    "lang": "DE",
-    "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Podstawowy przypadek (Nominativ/Akkusativ) na przykładzie\n\nJęzyk niemiecki ma cztery przypadki, ale zaczniemy od podstawowego, którym jest Nominativ. W tym przypadku mówimy o osobie lub rzeczy, która wykonuje czynność. Na przykładzie zobaczymy, jak to działa.\n\n✏️ *Przykład:*\n➜ Ich esse ein Sandwich.\n🇵🇱 Ja jem kanapkę.\n\n📐 *Konstrukcja:* W przypadku Nominativ zdanie zaczyna się od podmiotu, który wykonuje czynność, w tym przypadku \"ich\" (ja).\n\n💡 *Zapamiętaj:* Aby łatwiej zapamiętać Nominativ, pomyśl o sobie jako o wykonawcy czynności, na przykład \"ja jem\", \"ty jesz\", \"on/on/ono je\"."
-  },
-  {
     "ts": "2026-06-07T15:19:55.233488+00:00",
     "lang": "DE",
     "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Separable verbs (aufstehen, anrufen) — jak używać\n\nCzasowniki rozdzielne to specjalny rodzaj czasowników w języku niemieckim, które składają się z przedrostka i rdzenia czasownika. Przy tworzeniu zdania przedrostek rozdzielny od czasownika jest oddzielony i umieszczany na końcu zdania. Dzięki temu zdanie jest łatwiejsze do zrozumienia.\n\n✏️ *Przykład:*\n➜ Ich stehe jeden Morgen um 7 Uhr auf.\n🇵🇱 Wstaję każdego ranka o 7 godzin.\n\n📐 *Konstrukcja:* Przedrostek jest oddzielony od czasownika i umieszczany na końcu zdania, a czasownik jest umieszczany na drugiej pozycji w zdaniu.\n\n💡 *Zapamiętaj:* Aby łatwiej zapamiętać czasowniki rozdzielne, staraj się łączyć przedrostek z rdzeniem czasownika i myśleć o ich znaczeniu w całości, na przykład \"aufstehen\" to \"wstawać\"."
@@ -598,5 +593,10 @@
     "ts": "2026-08-05T15:57:42.555898+00:00",
     "lang": "EN",
     "content": "🇬🇧 *LEKCJA ANGIELSKIEGO*\n\n📖 *Temat:* Passive voice w praktycznym zdaniu\n\nGłos biopsy jest używany, gdy chcemy opowiedzieć o działaniu, bez wskazywania, kto je wykonuje. Dzięki temu możemy tworzyć zdania, które brzmią bardziej formalnie i profesjonalnie. Używając struktury biopsy, możemy zmienić nacisk w zdaniu z wykonawcy czynności na samą czynność.\n\n✏️ *Przykład:*\n➜ The play was written by Shakespeare.\n🇵🇱 Sztuka została napisana przez Szekspira.\n\n📐 *Czas/konstrukcja:* Passive Voice: to be + V3 (czasownik w formie trzeciej)\n\n💡 *Zapamiętaj:* Zwróć uwagę na to, że w strukturze biopsy czasownik \"to be\" musi być dostosowany do czasu, w którym występuje czynność, np. \"was written\" w czasie przeszłym, \"is written\" w czasie teraźniejszym."
+  },
+  {
+    "ts": "2026-08-06T10:28:23.573999+00:00",
+    "lang": "EN",
+    "content": "🇬🇧 *LEKCJA ANGIELSKIEGO*\n\n📖 *Temat:* Phrasal verb z przykładem w zdaniu\n\nPhrasal verby to połączenie czasownika z przedimkiem, które tworzy nowe znaczenie. Są one bardzo popularne w języku angielskim i często używane w codziennych rozmowach. Aby je opanować, należy zapamiętać każdy phrasal verb jako całość.\n\n✏️ *Przykład:*\n➜ I will pick you up at 7 o'clock.\n🇵🇱 Załatwię za ciebie o godz. 7.\n\n📐 *Czas/konstrukcja:* Phrasal verb \"pick up\" (o znaczeniu \"odebrać kogoś\")\n\n💡 *Zapamiętaj:* Zwróć uwagę na to, że phrasal verby często mają różne znaczenia w zależności od kontekstu, więc musisz ich używać w zdaniach, aby je dobrze zrozumieć."
   }
 ]
