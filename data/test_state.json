@@ -2,90 +2,90 @@
   "questions": [
     {
       "lang": "EN",
-      "question": "What does the phrasal verb 'give up' mean?",
+      "question": "What is the main purpose of using the passive voice in English?",
       "options": {
-        "A": "to start something",
-        "B": "to quit/stop trying",
-        "C": "to give a gift",
-        "D": "to wake up early"
+        "A": "to emphasize the doer of the action",
+        "B": "to emphasize the action itself",
+        "C": "to change the verb tense",
+        "D": "to make the sentence shorter"
       },
       "answer": "B",
-      "explanation": "Give up = rezygnować, poddawać się. Np. 'Don't give up on your dreams!'"
+      "explanation": "Głos biopsy jest używany, gdy chcemy opowiedzieć o działaniu, bez wskazywania, kto je wykonuje."
     },
     {
       "lang": "EN",
-      "question": "What is the main difference between 'say' and 'tell'?",
+      "question": "What is the difference between the 2nd and 3rd conditional?",
       "options": {
-        "A": "say is formal, tell is informal",
-        "B": "say is used for general statements, tell is used for specific statements",
-        "C": "say is used for questions, tell is used for answers",
-        "D": "say is used for commands, tell is used for requests"
+        "A": "2nd conditional is used for real situations, 3rd conditional is used for unreal situations",
+        "B": "2nd conditional is used for unreal situations in the present, 3rd conditional is used for unreal situations in the past",
+        "C": "2nd conditional is used for past situations, 3rd conditional is used for future situations",
+        "D": "2nd conditional is used for future situations, 3rd conditional is used for past situations"
       },
       "answer": "B",
-      "explanation": "Różnica między 'say' i 'tell' polega na tym, że 'say' oznacza wypowiedzenie czegoś, natomiast 'tell' oznacza powiedzenie komuś coś konkretnego."
+      "explanation": "Czasownik w 2nd kondycjonalu wyraża sytuację nierealną w teraźniejszości, natomiast w 3rd kondycjonalu sytuację nierealną w przeszłości."
     },
     {
       "lang": "EN",
-      "question": "What is the passive voice used for?",
+      "question": "When do we use the Present Perfect tense?",
       "options": {
-        "A": "to describe someone's actions",
-        "B": "to describe a place or object",
-        "C": "to describe a situation where the doer is unknown or unimportant",
-        "D": "to describe a historical event"
+        "A": "to describe completed actions in the past",
+        "B": "to describe actions that started in the past and have a connection to the present",
+        "C": "to describe future actions",
+        "D": "to describe habitual actions"
+      },
+      "answer": "B",
+      "explanation": "Czas Present Perfect używamy, gdy mówimy o wydarzeniach, które comenzły w przeszłości i mają związek z teraźniejszością."
+    },
+    {
+      "lang": "EN",
+      "question": "What is the difference between 'say' and 'tell'?",
+      "options": {
+        "A": "'say' is used with a person, 'tell' is used without a person",
+        "B": "'say' is used without a person, 'tell' is used with a person",
+        "C": "'say' is used for writing, 'tell' is used for speaking",
+        "D": "'say' is used for speaking, 'tell' is used for writing"
+      },
+      "answer": "B",
+      "explanation": "Tell częściej używany jest z osobą, do której się mówi."
+    },
+    {
+      "lang": "DE",
+      "question": "How is the plural form of nouns formed in German?",
+      "options": {
+        "A": "by adding -e or -en to the end of the noun",
+        "B": "by changing the vowel sound in the noun",
+        "C": "by adding -el or -en to the end of the noun",
+        "D": "by changing the consonant sound in the noun"
+      },
+      "answer": "A",
+      "explanation": "Rzeczowniki w języku niemieckim mają różne formy liczby mnogiej, ale często tworzy się ją przez dodanie -e lub -en."
+    },
+    {
+      "lang": "DE",
+      "question": "What is the difference between 'nicht' and 'kein' in German?",
+      "options": {
+        "A": "'nicht' is used to negate verbs, 'kein' is used to negate nouns",
+        "B": "'nicht' is used to negate nouns, 'kein' is used to negate verbs",
+        "C": "'nicht' is used for complete negation, 'kein' is used for partial negation",
+        "D": "'nicht' is used for partial negation, 'kein' is used for complete negation"
+      },
+      "answer": "A",
+      "explanation": "Negacja to sposób, w jaki mówimy 'nie' w zdaniach. W języku niemieckim używamy 'nicht' i 'kein' do negowania, ale w różnych sytuacjach."
+    },
+    {
+      "lang": "DE",
+      "question": "What are the two basic cases in German?",
+      "options": {
+        "A": "Nominativ and Dativ",
+        "B": "Akkusativ and Genitiv",
+        "C": "Nominativ and Akkusativ",
+        "D": "Dativ and Genitiv"
       },
       "answer": "C",
-      "explanation": "Głos biopsy jest używany, gdy chcemy opowiedzieć o kimś lub czymś, na którego/które coś działo się, zamiast kto lub co działo coś."
-    },
-    {
-      "lang": "EN",
-      "question": "What is reported speech used for?",
-      "options": {
-        "A": "to quote someone directly",
-        "B": "to describe a situation",
-        "C": "to tell a story",
-        "D": "to report what someone else said, using different words"
-      },
-      "answer": "D",
-      "explanation": "Reported speech to sposób, w jaki przekazujemy to, co ktoś innego powiedział, używając innych słów."
-    },
-    {
-      "lang": "DE",
-      "question": "What is the difference between 'nicht' and 'kein'?",
-      "options": {
-        "A": "nicht is used for negating verbs, kein is used for negating nouns",
-        "B": "nicht is used for negating nouns, kein is used for negating verbs",
-        "C": "nicht is used for formal situations, kein is used for informal situations",
-        "D": "nicht is used for questions, kein is used for answers"
-      },
-      "answer": "A",
-      "explanation": "Negacja 'nicht' i 'kein' różnią się tym, że 'nicht' jest używane do negowania czasowników, a 'kein' do negowania rzeczowników."
-    },
-    {
-      "lang": "DE",
-      "question": "What are separable verbs?",
-      "options": {
-        "A": "verbs that can be separated from their prefix",
-        "B": "verbs that cannot be separated from their prefix",
-        "C": "verbs that are only used in formal situations",
-        "D": "verbs that are only used in informal situations"
-      },
-      "answer": "A",
-      "explanation": "Czasowniki rozdzielne to rodzaj czasowników, które składają się z dwóch części: przedrostka i rdzenia czasownika, które mogą być rozdzielone w zdaniu."
-    },
-    {
-      "lang": "DE",
-      "question": "What are the three main articles in German?",
-      "options": {
-        "A": "der, die, das",
-        "B": "der, die, dem",
-        "C": "das, die, dem",
-        "D": "der, dem, das"
-      },
-      "answer": "A",
-      "explanation": "Trzy główne rodzajniki w języku niemieckim to 'der', 'die' i 'das', które są używane do określania rodzaju rzeczy lub osoby."
+      "explanation": "Nominativ i Akkusativ to podstawowe przypadki w języku niemieckim, które są używane do opisywania podmiotu i przedmiotu."
     }
   ],
   "current": 0,
   "score": 0,
-  "date": "2026-07-24"
+  "date": "2026-08-07"
 }
