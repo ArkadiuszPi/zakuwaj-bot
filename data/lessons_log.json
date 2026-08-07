@@ -1,10 +1,5 @@
 [
   {
-    "ts": "2026-06-08T12:22:13.556463+00:00",
-    "lang": "DE",
-    "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Podstawowy przypadek (Nominativ/Akkusativ) na przykładzie\n\nJęzyk niemiecki ma cztery przypadki, ale zaczniemy od podstawowego, czyli Nominativu i Akkusativu. te dwa przypadki są bardzo ważne, ponieważ określają podmiot i bezokolicznik zdania. Rozumienie tych przypadków pomoże Ci w budowaniu poprawnych zdań w języku niemieckim.\n\n✏️ *Przykład:*\n➜ Der Hund beißt den Mann.\n🇵🇱 Pies gryzie mężczyznę.\n\n📐 *Konstrukcja:* W przypadku Akkusativu, rzeczownik przybiera końcówkę \"-n\" lub \"-en\", jeśli jest męski, np. \"den Mann\".\n\n💡 *Zapamiętaj:* Aby łatwiej zapamiętać przypadki, powtarzaj zdania i próbuj zmieniać ich strukturę, aby zrozumieć, jak przypadki wpływają na znaczenie zdania."
-  },
-  {
     "ts": "2026-06-08T17:19:20.808798+00:00",
     "lang": "DE",
     "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Podstawowy przypadek (Nominativ/Akkusativ) na przykładzie\n\nNominativ i Akkusativ to dwa podstawowe przypadki w języku niemieckim. Są one używane do określenia podmiotu i dopełnienia zdania. Przypadek Nominativ jest używany do podmiotu, a Akkusativ do dopełnienia.\n\n✏️ *Przykład:*\n➜ Der Hund beißt den Mann.\n🇵🇱 Pies gryzie mężczyznę.\n\n📐 *Konstrukcja:* W niemieckim języku przypadki Nominativ i Akkusativ są używane w zależności od funkcji wyrazu w zdaniu, np. \"der Hund\" (Nominativ) jest podmiotem, a \"den Mann\" (Akkusativ) jest dopełnieniem.\n\n💡 *Zapamiętaj:* Aby zapamiętać przypadki Nominativ i Akkusativ, musisz zwrócić uwagę na funkcję wyrazu w zdaniu i odpowiednio używać końcówek -n lub -en w przypadku Akkusativu."
@@ -598,5 +593,10 @@
     "ts": "2026-08-07T08:46:15.098294+00:00",
     "lang": "EN",
     "content": "🇬🇧 *LEKCJA ANGIELSKIEGO*\n\n📖 *Temat:* Słownictwo biznesowe B2/C1\n\nW tej lekcji poznasz słownictwo związane z biznesem, które jest przydatne w sytuacjach profesionalnych. Nauczysz się słów i wyrażeń, które są często używane w branży biznesowej. To pomoże Ci w komunikacji z klientami, kolegami i partnerami biznesowymi.\n\n✏️ *Przykład:*\n➜ The company is going to launch a new product next quarter.\n🇵🇱 Firma planuje wprowadzić nowy produkt w następnym kwartale.\n\n📐 *Czas/konstrukcja:* Present Simple: subj + V1 (czas teraźniejszy prosty)\n\n💡 *Zapamiętaj:* Aby łatwiej zapamiętać nowe słownictwo, staraj się używać jego w kontekście, np. w rozmowach z kolegami lub w e-mailach biznesowych."
+  },
+  {
+    "ts": "2026-08-07T14:47:44.062032+00:00",
+    "lang": "DE",
+    "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Liczba mnoga rzeczowników — zasada\n\nRzeczowniki w języku niemieckim mają różne formy liczby mnogiej. Niektóre rzeczowniki dodają \"-e\" lub \"-en\" na końcu, aby utworzyć liczbę mnogą. Trzeba nauczyć się tych form, aby poprawnie używać rzeczowników w liczbie mnogiej.\n\n✏️ *Przykład:*\n➜ Die Haus wird zu den Häusern\n🇵🇱 Dom staje się domami\n\n📐 *Konstrukcja:* Dodanie \"-e\" lub \"-en\" na końcu rzeczownika, np. Haus -> Häuser\n\n💡 *Zapamiętaj:* Powtarzaj rzeczowniki w liczbie pojedynczej i mnogiej, aby łatwiej je zapamiętać, np. Haus - Häuser, Buch - Bücher"
   }
 ]
