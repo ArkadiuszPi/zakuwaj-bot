@@ -1,10 +1,5 @@
 [
   {
-    "ts": "2026-06-10T16:55:31.361850+00:00",
-    "lang": "DE",
-    "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Liczba mnoga rzeczowników — zasada\n\nW języku niemieckim liczba mnoga rzeczowników tworzona jest na różne sposoby, ale często dodaje się -e lub -en na końcu słowa. To prosta reguła, której można się nauczyć. Przykłady pokażą, jak to działa.\n\n✏️ *Przykład:*\n➜ Die Katze wird zur Katzen\n🇵🇱 Kot staje się kotami\n\n📐 *Konstrukcja:* Dodaj -e lub -en do rzeczownika, aby utworzyć liczbę mnogą\n\n💡 *Zapamiętaj:* Pamiętaj, że niektóre rzeczowniki mają wyjątki, ale reguła z -e i -en często działa, więc spróbuj ją stosować, aby utworzyć liczbę mnogą"
-  },
-  {
     "ts": "2026-06-11T12:03:43.120995+00:00",
     "lang": "EN",
     "content": "🇬🇧 *LEKCJA ANGIELSKIEGO*\n\n📖 *Temat:* Phrasal verb z przykładem w zdaniu\n\nPhrasal verbs to wyrażenia, które składają się z czasownika i przedimka, ale mają inne znaczenie niż każde z tych słów z osobna. Są one bardzo popularne w języku angielskim i mogą być trudne do zrozumienia. Aby je opanować, należy uczyć się ich w kontekście.\n\n✏️ *Przykład:*\n➜ I picked up my keys and left the house.\n🇵🇱 Wziąłem klucze i wyszedłem z domu.\n\n📐 *Czas/konstrukcja:* Phrasal verb: pick up + something (coś wziąć, podnieść)\n\n💡 *Zapamiętaj:* Aby łatwiej zapamiętać phrasal verbs, próbuj używać ich w krótkich zdaniach i powtarzaj je często."
@@ -598,5 +593,10 @@
     "ts": "2026-08-09T14:27:56.502391+00:00",
     "lang": "EN",
     "content": "🇬🇧 *LEKCJA ANGIELSKIEGO*\n\n📖 *Temat:* Różnica między dwoma podobnymi słowami (np. say/tell, make/do)\n\nW języku angielskim istnieją słowa, które choć są podobne, mają różne znaczenia i zastosowania, co może sprawiać trudności w komunikacji. Przykładem są słowa \"say\" i \"tell\", które często są mylone ze sobą, ale \"say\" oznacza wypowiedzenie słów, natomiast \"tell\" oznacza przekazanie informacji. Rozumienie tych różnic jest kluczowe dla poprawnego porozumiewania się w języku angielskim.\n\n✏️ *Przykład:*\n➜ She said that she would be late.\n🇵🇱 Powiedziała, że sẽ się spóźni.\n\n📐 *Czas/konstrukcja:* Reported Speech: said + że + zdanie w czasie przeszłym\n\n💡 *Zapamiętaj:* Zwróć uwagę na to, że \"say\" często jest używane z bezokolicznikami lub wyrażeniami w czasie przeszłym, podczas gdy \"tell\" jest używane z zaimekami lub nazwami osób, do których się zwracamy."
+  },
+  {
+    "ts": "2026-08-10T09:07:27.725229+00:00",
+    "lang": "EN",
+    "content": "🇬🇧 *LEKCJA ANGIELSKIEGO*\n\n📖 *Temat:* Passive voice w praktycznym zdaniu\n\nGłos biopsy jest używany, gdy chcemy powiedzieć, kto lub co wykonuje pewne działanie, ale nie chcemy podawać wykonawcy. Może to być pomocne w sytuacjach, gdy wykonawca nie jest ważny lub nie jest znany. Używamy go również, gdy chcemy zmienić nacisk zdania.\n\n✏️ *Przykład:*\n➜ The play was written by Shakespeare.\n🇵🇱 Sztuka została napisana przez Szekspira.\n\n📐 *Czas/konstrukcja:* Passive voice: to be + V3 (czasownik w formie biernika)\n\n💡 *Zapamiętaj:* Zwróć uwagę na to, że w głosie biernym podmiot otrzymuje działanie, a nie wykonuje go, co może zmienić znaczenie Twojego zdania."
   }
 ]
