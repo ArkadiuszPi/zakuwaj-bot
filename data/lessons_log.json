@@ -1,10 +1,5 @@
 [
   {
-    "ts": "2026-06-12T11:36:01.621567+00:00",
-    "lang": "DE",
-    "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Modalne: kann/muss/will w zdaniu\n\nCzasownik \"kann\" oznacza umiejętność, \"muss\" oznacza konieczność, a \"will\" oznacza wolę. Te czasowniki modalne są używane do wyrażania różnych sytuacji w zdaniu. Są one bardzo użyteczne w języku niemieckim.\n\n✏️ *Przykład:*\n➜ Ich kann Deutsch sprechen.\n🇵🇱 Ja mówię po niemiecku.\n\n📐 *Konstrukcja:* Czasownik modalny + główny czasownik w formie bezokolicznika.\n\n💡 *Zapamiętaj:* Aby zapamiętać różnicę między tymi czasownikami, próbuj skojarzyć \"kann\" z \"umiejętnością\", \"muss\" z \"musisz\" i \"will\" z \"chcę\"."
-  },
-  {
     "ts": "2026-06-12T16:40:39.382256+00:00",
     "lang": "EN",
     "content": "🇬🇧 *LEKCJA ANGIELSKIEGO*\n\n📖 *Temat:* Present Perfect vs Past Simple — kiedy używać którego\nCzas Present Perfect używamy, gdy mówimy o czymś, co miało miejsce w przeszłości, ale ma wpływ na teraźniejszość. Czas Past Simple używamy, gdy mówimy o czymś, co miało miejsce w przeszłości i nie ma już wpływu na teraźniejszość. Ważne jest, aby zwrócić uwagę na kontekst i czas, o którym mówimy.\n\n✏️ *Przykład:*\n➜ I have eaten breakfast already.\n🇵🇱 Już zjadłem śniadanie.\n\n📐 *Czas/konstrukcja:* Present Perfect: have/has + V3, Past Simple: V2\n\n💡 *Zapamiętaj:* Zawsze sprawdzaj, czy wydarzenie z przeszłości ma wpływ na teraźniejszość, jeśli tak, użyj Present Perfect, jeśli nie, użyj Past Simple."
@@ -598,5 +593,10 @@
     "ts": "2026-08-11T08:43:36.833833+00:00",
     "lang": "DE",
     "content": "🇩🇪 *LEKCJA NIEMIECKIEGO*\n\n📖 *Temat:* Liczba mnoga rzeczowników — zasada\n\nW języku niemieckim rzeczowniki mają różne formy w liczbie mnogiej. Niektóre rzeczowniki dodają \"-e\" lub \"-en\" na końcu, aby utworzyć formę mnogą. Trzeba nauczyć się tych form, aby poprawnie używać ich w zdaniach.\n\n✏️ *Przykład:*\n➜ Die Katze ist schön, aber die Katzen sind noch schöner.\n🇵🇱 Kot jest piękny, ale koty są jeszcze piękniejsze.\n\n📐 *Konstrukcja:* Rzeczowniki mogą tworzyć formę mnogą przez dodanie końcówek \"-e\", \"-en\", \"-er\" lub pozostawać bez zmian.\n\n💡 *Zapamiętaj:* Aby łatwiej zapamiętać formy mnogie, powtarzaj rzeczowniki w liczbie pojedynczej i mnogiej, np. \"der Hund\" - \"die Hunde\"."
+  },
+  {
+    "ts": "2026-08-11T14:52:08.972086+00:00",
+    "lang": "EN",
+    "content": "🇬🇧 *LEKCJA ANGIELSKIEGO*\n\n📖 *Temat:* Różnica między dwoma podobnymi słowami (np. say/tell, make/do)\n\nRozumienie różnic między słowami \"say\" i \"tell\" może być trudne, ale ogólnie \"say\" oznacza wypowiedzenie czegoś, natomiast \"tell\" oznacza przekazanie informacji komuś. Przykładowo, możemy \"say\" coś głośno, ale \"tell\" kogoś o czymś. Użyty kontekst często pomoże określić, które słowo jest bardziej odpowiednie.\n\n✏️ *Przykład:*\n➜ She said that she would be late.\n🇵🇱 Powiedziała, że będzie spóźniona.\n\n📐 *Czas/konstrukcja:* Reported Speech: say + that + clause\n\n💡 *Zapamiętaj:* Zwróć uwagę na to, że \"tell\" zwykle wymaga obiektu, czyli osoby, której coś mówimy, natomiast \"say\" może być użyte bez obiektu."
   }
 ]
