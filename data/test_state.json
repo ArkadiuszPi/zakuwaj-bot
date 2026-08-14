@@ -2,90 +2,90 @@
   "questions": [
     {
       "lang": "EN",
-      "question": "What is the main purpose of using the passive voice in English?",
+      "question": "What does the idiom 'to burn out' mean?",
       "options": {
-        "A": "to emphasize the doer of the action",
-        "B": "to emphasize the action itself",
-        "C": "to change the verb tense",
-        "D": "to make the sentence shorter"
+        "A": "to start a new job",
+        "B": "to feel happy and energetic",
+        "C": "to feel emotionally and physically exhausted",
+        "D": "to take a break"
       },
-      "answer": "B",
-      "explanation": "Głos biopsy jest używany, gdy chcemy opowiedzieć o działaniu, bez wskazywania, kto je wykonuje."
+      "answer": "C",
+      "explanation": "To burn out oznacza całkowite wypalenie się, czyli stan emocjonalnego i fizycznego załamania spowodowanego nadmiarem pracy lub stresu."
     },
     {
       "lang": "EN",
-      "question": "What is the difference between the 2nd and 3rd conditional?",
+      "question": "What is the main difference between 'say' and 'tell'?",
       "options": {
-        "A": "2nd conditional is used for real situations, 3rd conditional is used for unreal situations",
-        "B": "2nd conditional is used for unreal situations in the present, 3rd conditional is used for unreal situations in the past",
-        "C": "2nd conditional is used for past situations, 3rd conditional is used for future situations",
-        "D": "2nd conditional is used for future situations, 3rd conditional is used for past situations"
+        "A": "say is used for giving orders, tell is used for giving advice",
+        "B": "say is used for speaking, tell is used for giving information",
+        "C": "say is used for writing, tell is used for speaking",
+        "D": "say is used for listening, tell is used for speaking"
       },
       "answer": "B",
-      "explanation": "Czasownik w 2nd kondycjonalu wyraża sytuację nierealną w teraźniejszości, natomiast w 3rd kondycjonalu sytuację nierealną w przeszłości."
+      "explanation": "Say oznacza wypowiedzenie czegoś, natomiast tell oznacza przekazanie informacji komuś."
     },
     {
       "lang": "EN",
       "question": "When do we use the Present Perfect tense?",
       "options": {
-        "A": "to describe completed actions in the past",
-        "B": "to describe actions that started in the past and have a connection to the present",
-        "C": "to describe future actions",
-        "D": "to describe habitual actions"
+        "A": "when we talk about finished actions",
+        "B": "when we talk about actions that started in the past and continue up to the present",
+        "C": "when we talk about actions that will happen in the future",
+        "D": "when we talk about habits"
       },
       "answer": "B",
-      "explanation": "Czas Present Perfect używamy, gdy mówimy o wydarzeniach, które comenzły w przeszłości i mają związek z teraźniejszością."
+      "explanation": "Używamy Present Perfect, gdy mówimy o czymś, co się wydarzyło w przeszłości, ale ma związki z teraźniejszością."
     },
     {
       "lang": "EN",
-      "question": "What is the difference between 'say' and 'tell'?",
+      "question": "What is the purpose of reported speech?",
       "options": {
-        "A": "'say' is used with a person, 'tell' is used without a person",
-        "B": "'say' is used without a person, 'tell' is used with a person",
-        "C": "'say' is used for writing, 'tell' is used for speaking",
-        "D": "'say' is used for speaking, 'tell' is used for writing"
+        "A": "to quote someone's exact words",
+        "B": "to summarize what someone said",
+        "C": "to change the subject of the conversation",
+        "D": "to avoid talking about the past"
       },
       "answer": "B",
-      "explanation": "Tell częściej używany jest z osobą, do której się mówi."
+      "explanation": "Mowa zależna, czyli reported speech, pozwala nam przekazać informację o tym, co ktoś powiedział, bez cytowania słów dokładnie."
     },
     {
       "lang": "DE",
-      "question": "How is the plural form of nouns formed in German?",
+      "question": "Was bedeutet das Modalverb 'kann'?",
       "options": {
-        "A": "by adding -e or -en to the end of the noun",
-        "B": "by changing the vowel sound in the noun",
-        "C": "by adding -el or -en to the end of the noun",
-        "D": "by changing the consonant sound in the noun"
-      },
-      "answer": "A",
-      "explanation": "Rzeczowniki w języku niemieckim mają różne formy liczby mnogiej, ale często tworzy się ją przez dodanie -e lub -en."
-    },
-    {
-      "lang": "DE",
-      "question": "What is the difference between 'nicht' and 'kein' in German?",
-      "options": {
-        "A": "'nicht' is used to negate verbs, 'kein' is used to negate nouns",
-        "B": "'nicht' is used to negate nouns, 'kein' is used to negate verbs",
-        "C": "'nicht' is used for complete negation, 'kein' is used for partial negation",
-        "D": "'nicht' is used for partial negation, 'kein' is used for complete negation"
-      },
-      "answer": "A",
-      "explanation": "Negacja to sposób, w jaki mówimy 'nie' w zdaniach. W języku niemieckim używamy 'nicht' i 'kein' do negowania, ale w różnych sytuacjach."
-    },
-    {
-      "lang": "DE",
-      "question": "What are the two basic cases in German?",
-      "options": {
-        "A": "Nominativ and Dativ",
-        "B": "Akkusativ and Genitiv",
-        "C": "Nominativ and Akkusativ",
-        "D": "Dativ and Genitiv"
+        "A": "Muss",
+        "B": "Wollen",
+        "C": "Können",
+        "D": "Sollen"
       },
       "answer": "C",
-      "explanation": "Nominativ i Akkusativ to podstawowe przypadki w języku niemieckim, które są używane do opisywania podmiotu i przedmiotu."
+      "explanation": "Das Modalverb 'kann' bedeutet die Fähigkeit oder Möglichkeit, etwas zu tun."
+    },
+    {
+      "lang": "DE",
+      "question": "Wie bildet man den Plural von Substantiven im Deutschen?",
+      "options": {
+        "A": "man fügt immer '-e' hinzu",
+        "B": "man fügt immer '-en' hinzu",
+        "C": "man fügt '-e' oder '-en' hinzu, je nach Substantiv",
+        "D": "man ändert das Substantiv nicht"
+      },
+      "answer": "C",
+      "explanation": "Im Deutschen haben Substantive verschiedene Pluralformen, manche erhalten '-e' oder '-en' am Ende, um den Plural zu bilden."
+    },
+    {
+      "lang": "DE",
+      "question": "Was ist die Funktion des Modalverbs 'muss'?",
+      "options": {
+        "A": "es drückt die Fähigkeit aus",
+        "B": "es drückt die Notwendigkeit aus",
+        "C": "es drückt die Möglichkeit aus",
+        "D": "es drückt die Erlaubnis aus"
+      },
+      "answer": "B",
+      "explanation": "Das Modalverb 'muss' drückt die Notwendigkeit oder Pflicht aus, etwas zu tun."
     }
   ],
   "current": 0,
   "score": 0,
-  "date": "2026-08-07"
+  "date": "2026-08-14"
 }
